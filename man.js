@@ -1,11 +1,11 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyDagsmgkKg5InV6tLqxSbX1qTflzPKd6-4",
-  authDomain: "formulario-dbb7d.firebaseapp.com",
-  databaseURL: "https://formulario-dbb7d-default-rtdb.firebaseio.com",
-  projectId: "formulario-dbb7d",
-  storageBucket: "formulario-dbb7d.appspot.com",
-  messagingSenderId: "232963347074",
-  appId: "1:232963347074:web:eaabd2757a0260f8439a9b"
+  apiKey: "AIzaSyC_17Vk8PZFEYyy2M1XiXKeLLs83h76RwM",
+  authDomain: "fir-ok-f918c.firebaseapp.com",
+  databaseURL: "https://fir-ok-f918c-default-rtdb.firebaseio.com",
+  projectId: "fir-ok-f918c",
+  storageBucket: "fir-ok-f918c.appspot.com",
+  messagingSenderId: "195706400081",
+  appId: "1:195706400081:web:c6151e59d2f0870a177770"
 };
 
 
