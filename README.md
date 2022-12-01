@@ -52,3 +52,14 @@
 
 allow read: if false;
 allow write: if true;
+
+ - CLICAR em REGISTRA O APP, COLOCAR UM NOME COM O CHEKBOX DESMARCADO
+
+![image](https://user-images.githubusercontent.com/60610011/205074419-92c8e205-bf7b-4c95-b3d0-34c3ff907f1a.png)
+
+ - SELECIONAR USAR TAG
+ - PEGAR AS CREDENCIAIS DO BANCO E COLOCAR NO PROJETO 
+
+![image](https://user-images.githubusercontent.com/60610011/205074917-b73187d3-3bb6-4592-b2df-38fd9595fdfc.png)
+
+- TUDO PRONTO !
