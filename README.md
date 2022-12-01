@@ -18,6 +18,6 @@
   - ESCOLHER NO MODO BLOQUEADO
   - CLICAR EM CRIAR BANCO
 
-   - Apos, clicar em regras, editalas de acordo com o print, e publicar a alteração 
+  - Apos, clicar em regras, editalas de acordo com o print, e publicar a alteração 
 
 ![image](https://user-images.githubusercontent.com/60610011/205070766-72cb057f-9ccd-440e-856f-0c085bc327fa.png)
