@@ -21,3 +21,27 @@
   - Apos, clicar em regras, editalas de acordo com o print, e publicar a alteração 
 
 ![image](https://user-images.githubusercontent.com/60610011/205070766-72cb057f-9ccd-440e-856f-0c085bc327fa.png)
+
+ - Colocar a seguinte politica de para o banco.
+{
+  "rules": {
+    ".read": false,
+    ".write": true
+  }
+}
+
+ - CLICAR em FIRESTORE DATABASES
+
+![image](https://user-images.githubusercontent.com/60610011/205071621-7b58b2f9-a876-433c-93c3-d3635c10d2f7.png)
+
+ - CLICAR EM CRIAR BANCO 
+
+![image](https://user-images.githubusercontent.com/60610011/205072013-5d53b462-964a-4ece-926a-63c3fcfd825e.png)
+
+ - INICIAR MODO DE PRODUÇÃO
+
+![image](https://user-images.githubusercontent.com/60610011/205072255-cfce7bb9-f164-4c94-b98c-18dd17f457bf.png)
+
+ - Se aparecer essa tela, deve clicar em ATIVAR, se nao clique tambem em ativar, os arquivos seram aprovisionados
+
+![image](https://user-images.githubusercontent.com/60610011/205072430-e7d4e9e6-d7e5-4700-94cc-e4c8b1e2e8d7.png)
