@@ -5,7 +5,7 @@ const firebaseConfig = {
   projectId: "formulario-dbb7d",
   storageBucket: "formulario-dbb7d.appspot.com",
   messagingSenderId: "232963347074",
-  appId: "1:232963347074:web:b713f6ba1d5c1ca0439a9b"
+  appId: "1:232963347074:web:eaabd2757a0260f8439a9b"
 };
 
 
