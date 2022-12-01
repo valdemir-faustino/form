@@ -1,13 +1,12 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyDagsmgkKg5InV6tLqxSbX1qTflzPKd6-4",
-  authDomain: "formulario-dbb7d.firebaseapp.com",
-  databaseURL: "https://formulario-dbb7d-default-rtdb.firebaseio.com",
-  projectId: "formulario-dbb7d",
-  storageBucket: "formulario-dbb7d.appspot.com",
-  messagingSenderId: "232963347074",
-  appId: "1:232963347074:web:eaabd2757a0260f8439a9b"
-};
-
+  apiKey: "AIzaSyB2PZPBMc6JR7_5cQQU4wzCHDEBm_NNw5A",
+  authDomain: "contactform-74815.firebaseapp.com",
+  databaseURL: "https://contactform-74815-default-rtdb.firebaseio.com",
+  projectId: "contactform-74815",
+  storageBucket: "contactform-74815.appspot.com",
+  messagingSenderId: "278657556380",
+  appId: "1:278657556380:web:6c7736222ca4e27a41b259"
+}; //Chave Bispo
 
   // inicializar o firebase
   firebase.initializeApp(firebaseConfig);
