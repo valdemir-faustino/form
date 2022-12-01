@@ -45,3 +45,10 @@
  - Se aparecer essa tela, deve clicar em ATIVAR, se nao clique tambem em ativar, os arquivos seram aprovisionados
 
 ![image](https://user-images.githubusercontent.com/60610011/205072430-e7d4e9e6-d7e5-4700-94cc-e4c8b1e2e8d7.png)
+
+ - CLICAR em regras, editar as politicas e publicar
+
+![image](https://user-images.githubusercontent.com/60610011/205073690-5817b0cb-b94b-4f73-86cf-c677bf6bfe0b.png)
+
+allow read: if false;
+allow write: if true;
